@@ -12,3 +12,7 @@
 ### Activity 3
 ![Activity 3 snapshot1](./assets/img/activity3.1.png)
 ![Activity 3 snapshot2](./assets/img/activity3.2.png)
+
+### Activity 3
+![Activity 4 snapshot1](./assets/img/activity4.1.png)
+![Activity 4 snapshot2](./assets/img/activity4.2.png)
